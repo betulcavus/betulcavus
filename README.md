@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there 👋🏻
 
-<!--
-**betulcavus/betulcavus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Engineer who is also passioned about web development and coding 👩🏻‍💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤸‍♀️ Languages: Java, Python, JavaScript, HTML, CSS
+🧘‍♀️ Frameworks: TestNG, Cucumber
+🚴‍♀️ Tools: Selenium Suite, Postman, RestAssured
+🏋️‍♀️ IDE: IntelliJ, Eclipse
+🏌️‍♀️ Databases: PostgreSQL, SQL, JDBC
+🧘‍♀️ Bug Tracking: JIRA
+🤸‍♀️ Build/CI/CD Tools Maven, Git, GitHub, Jenkins
+![image](https://user-images.githubusercontent.com/115632124/209355990-3980c582-dad7-43ed-933c-71b69ba0898a.png)
