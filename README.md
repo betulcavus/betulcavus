@@ -2,11 +2,11 @@
 
 _I am a QA Engineer who is also passioned about web development and coding_ 👩🏻‍💻
 
-:woman_cartwheeling: **Languages:** Java SE (Certified), JavaScript, HTML, CSS, Scratch\
+:woman_cartwheeling: **Languages:** Java (Certified), JavaScript, Python, HTML, CSS, Scratch\
 :lotus_position_woman: **Frameworks:** TestNG, Cucumber\
-:biking_woman: **Tools:** Selenium Suite, Postman, RestAssured\
-:weight_lifting_woman: **IDE:** Eclipse, IntelliJ\
-:golfing_woman: **Databases:** MySQL, SQL, JDBC\
+:biking_woman: **Tools:** Selenium, Postman, RestAssured\
+:weight_lifting_woman: **IDE:** IntelliJ, Eclipse\
+:golfing_woman: **Databases:** PostgreSQL, SQL, JDBC\
 :lotus_position_woman: **Bug Tracking** JIRA\
 :woman_cartwheeling: **Build/CI/CD Tools** Maven, Git, GitHub, Jenkins 
 
