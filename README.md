@@ -2,7 +2,7 @@
 
 _I am a QA Engineer who is also passioned about web development and coding_ 👩🏻‍💻
 
-:woman_cartwheeling: **Languages:** Java (Certified), JavaScript, Python, HTML, CSS, Scratch\
+:woman_cartwheeling: **Languages:** Java, JavaScript, Python, HTML, CSS, Scratch\
 :lotus_position_woman: **Frameworks:** TestNG, Cucumber\
 :biking_woman: **Tools:** Selenium, Postman, RestAssured\
 :weight_lifting_woman: **IDE:** IntelliJ, Eclipse\
