@@ -2,12 +2,15 @@
 
 _I am a QA Engineer who is also passioned about web development and coding_ 👩🏻‍💻
 
-:woman_cartwheeling: **Languages:** Java, JavaScript, Python, HTML, CSS, Scratch\
-:lotus_position_woman: **Frameworks:** TestNG, Cucumber\
-:biking_woman: **Tools:** Selenium, Postman, RestAssured\
-:weight_lifting_woman: **IDE:** IntelliJ, Eclipse\
-:golfing_woman: **Databases:** PLpgSQL, SQL, JDBC\
+:woman_cartwheeling: **Languages:** Java, JavaScript, Python, HTML, CSS, Lambda, xml, SQL\
+:lotus_position_woman: **Frameworks:** JUnit, TestNG, Cucumber\
+:biking_woman: **Tools:** IntelliJ, Eclipse, VS Code, Selenium, Maven, Postman, JMeter, Retsful API, Jenkins, PostgreSQL\
+:weight_lifting_woman: **Design Pattern:** Page Object Model(POM)\
+:golfing_woman: **Backend/Database Testing:** SQL, JDBC\
+:woman_cartwheeling: **Front End Testing:** Selenium WebDriver\
+:lotus_position_woman: **API Testing:** Postman for Manuel Testing, Restful for Automation\
+:biking_woman: **Remote Testing:** Selenium Grid, Jenkins(CI/CD)\
 :lotus_position_woman: **Bug Tracking:** JIRA\
-:woman_cartwheeling: **Build/CI/CD Tools:** Maven, Git, GitHub, Jenkins 
+:woman_cartwheeling: **Version Control System:** Git, Bitbucket\ 
 
 ![giphy](https://user-images.githubusercontent.com/60116628/131928939-2bd76f2a-1270-4f65-b089-9ef13016b6c9.gif)
