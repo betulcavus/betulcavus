@@ -11,6 +11,6 @@ _I am a QA Engineer who is also passioned about web development and coding_ 👩
 :lotus_position_woman: **API Testing:** Postman for Manuel Testing, Restful for Automation\
 :biking_woman: **Remote Testing:** Selenium Grid, Jenkins(CI/CD)\
 :lotus_position_woman: **Bug Tracking:** JIRA\
-:woman_cartwheeling: **Version Control System:** Git, Bitbucket\ 
+:woman_cartwheeling: **Version Control System:** Git, Bitbucket 
 
 ![giphy](https://user-images.githubusercontent.com/60116628/131928939-2bd76f2a-1270-4f65-b089-9ef13016b6c9.gif)
