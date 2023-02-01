@@ -7,7 +7,7 @@ _I am a QA Engineer who is also passioned about web development and coding_ 👩
 :biking_woman: **Tools:** IntelliJ, Eclipse, VS Code, Selenium, Maven, Postman, JMeter, Retsful API, Jenkins, PostgreSQL\
 :weight_lifting_woman: **Design Pattern:** Page Object Model(POM)\
 :golfing_woman: **Backend/Database Testing:** SQL, JDBC\
-:woman_cartwheeling: **Front End Testing:** Selenium WebDriver\
+:woman_cartwheeling: **Frontend Testing:** Selenium WebDriver\
 :lotus_position_woman: **API Testing:** Postman for Manuel Testing, Restful for Automation\
 :biking_woman: **Remote Testing:** Selenium Grid, Jenkins(CI/CD)\
 :lotus_position_woman: **Bug Tracking:** JIRA\
