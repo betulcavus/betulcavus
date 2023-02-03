@@ -4,7 +4,7 @@ _I am a QA Engineer who is also passioned about web development and coding_ 👩
 
 :woman_cartwheeling: **Languages:** Java, JavaScript, Python, HTML, CSS, Lambda, xml, SQL\
 :lotus_position_woman: **Frameworks:** JUnit, TestNG, Cucumber\
-:biking_woman: **Tools:** IntelliJ, Eclipse, VS Code, Selenium, Maven, Postman, JMeter, Retsful API, Jenkins, PostgreSQL\
+:biking_woman: **Tools:** IntelliJ, Eclipse, VS Code, Selenium, Maven, Postman, JMeter, Restful API, Jenkins, PostgreSQL\
 :weight_lifting_woman: **Design Pattern:** Page Object Model(POM)\
 :golfing_woman: **Backend/Database Testing:** SQL, JDBC\
 :woman_cartwheeling: **Frontend Testing:** Selenium WebDriver\
